@@ -7,7 +7,8 @@ int main()
 cin >> string;
 int a;
 int b;
+int c;
 cin >> a << "/n";
 cin >> b << "/n";
-cout << a + b;
+cout << c = a + b;
 }
